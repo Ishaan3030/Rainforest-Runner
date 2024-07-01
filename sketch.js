@@ -28,6 +28,7 @@
   ground.scale = 4
 
   invisibleGround = createSprite(600,580,1200,30);
+  invisibleGround.visible = false;
 
   coati = createSprite(200, 450, 200, 100);
 
